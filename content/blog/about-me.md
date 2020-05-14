@@ -11,6 +11,6 @@ I am currently studying **Computer Science and Engineering** at [UBT College](ht
 
 All my personal coding projects are found in my [GitHub account](https://github.com/ermal-abiti). You can also find me in:
 
-* [Twitter](https://twitter.com/ermalabiti)
-* [Instagram](https://instagram.com/ermalabitiapps)
-* [Facebook](https://facebook.com/ermalabitiofficial)
+* <a href="https://twitter.com/ermalabiti" target="_blank">Twitter</a>
+* <a href="https://instagram.com/ermalabitiapps" target="_blank">Instagram</a>
+* <a href="https://fb.me/ermalabitiapps">Facebook</a>
