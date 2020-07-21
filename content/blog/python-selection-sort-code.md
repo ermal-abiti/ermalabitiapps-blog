@@ -5,7 +5,7 @@ title: Python Selection-Sort Code
 ---
 
 
-```
+```python
 def selectionSort(unsortedArray):
 	array = []
 	
