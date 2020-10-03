@@ -1,10 +1,8 @@
 ---
 path: python-selectionsort
 date: 2020-07-21T12:25:21.666Z
-title: Python Selection-Sort Code
+title: Selection-Sort Algorithm In Python
 ---
-
-
 ```python
 def selectionSort(unsortedArray):
 	array = []
