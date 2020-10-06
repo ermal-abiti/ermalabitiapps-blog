@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `ermal abiti blog`,
+    title: `the computerized world 🕹`,
     author: {
       name: `Ermal Abiti`,
-      summary: `- studying CSE at UBT College. Living in Kosovo, Mitrovica.`,
+      summary: `- a Computer Science student & tech enthusiast. Living in Kosovo, Mitrovica.`,
     },
     description: `My personal blog!`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
