@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `ermalabitiapps blog`,
+    title: `ermal abiti blog`,
     author: {
       name: `Ermal Abiti`,
       summary: `- studying CSE at UBT College. Living in Kosovo, Mitrovica.`,
