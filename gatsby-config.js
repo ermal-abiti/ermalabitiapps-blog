@@ -3,7 +3,7 @@ module.exports = {
     title: `the computerized world 🕹`,
     author: {
       name: `Ermal Abiti`,
-      summary: `- a Computer Science student & tech enthusiast. Living in Kosovo, Mitrovica.`,
+      summary: `.`,
     },
     description: `My personal blog!`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
